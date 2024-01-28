@@ -10,7 +10,7 @@ Welcome to the Movie Rental API, a simple application that allows users to inter
 - [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -37,16 +37,17 @@ To set up the project locally, follow these steps:
 
 ## 1. Clone the repository:
 
-git clone https://github.com/your-username/movie-rental-api.git
-Navigate to the project directory:
+git clone https://github.com/Mims70/MiracleAnyiamMovieApi.git
+
+## 2. Navigate to the project directory:
 
 cd movie-rental-api
 
-## 2. Install dependencies:
+## 3. Install dependencies:
 
 npm install
 
-## 3. Run the application:
+## 4. Run the application:
 
 node index.js
 
@@ -60,5 +61,3 @@ readline: For handling user input.
 
 If you'd like to contribute to the project, feel free to fork the repository and submit a pull request. Your contributions are welcome!
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
