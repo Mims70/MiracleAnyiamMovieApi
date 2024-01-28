@@ -1,4 +1,3 @@
-# MiracleAnyiamMovieApi
 # Movie Rental API
 
 Welcome to the Movie Rental API, a simple application that allows users to interact with a movie store, rent movies, and get information about available movies.
