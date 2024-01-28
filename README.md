@@ -31,5 +31,34 @@ To use the Movie Rental API, follow these steps:
 2. Install the necessary dependencies (if not already installed).
 3. Run the application using Node.js.
 
-```bash
+## Installation
+
+To set up the project locally, follow these steps:
+
+## 1. Clone the repository:
+
+git clone https://github.com/your-username/movie-rental-api.git
+Navigate to the project directory:
+
+cd movie-rental-api
+
+## 2. Install dependencies:
+
+npm install
+
+## 3. Run the application:
+
 node index.js
+
+## Dependencies
+
+The project uses the following dependencies:
+
+readline: For handling user input.
+
+## Contributing
+
+If you'd like to contribute to the project, feel free to fork the repository and submit a pull request. Your contributions are welcome!
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
